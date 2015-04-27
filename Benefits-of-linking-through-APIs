@@ -1,0 +1,10 @@
+#Benefits of APIs#
+Sometime ago, I was part of team that installed Salesforce in the company where I used to work. 
+It was a very interesting experience, working with expert consultants and customizing the many features it has to match the 
+characterirtics of the company. 
+The lat thing we did, which was perhaps one of the hardest, was to download APIs to create a "bridge" between Salesforce and SAP
+thw software the administration used. 
+Before attending the class, I though APIs were mostly to link 2 different systems (SAP, Salesforce, Microsoft Dynamic, etc).
+I really enjoyed learning about APIs, and the easiness of connecting different sites through them. Things that seem very complicated 
+are in fact somewhat easy and even some larger companies have "how-to-connect-our-API" files on their websites (Attaching a few examples)
+Overall the API excercise was really interesting. 
